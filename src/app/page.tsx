@@ -13,7 +13,7 @@ export default async function Home() {
 
   return (
     <div>
-      <button onClick={handleClick}>OK</button>
+      <button onClick={handleClick}>OK</button>  
     </div>
   )
 }
